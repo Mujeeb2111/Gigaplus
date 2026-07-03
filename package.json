@@ -1,0 +1,12 @@
+{
+  "name": "gigaplug-vercel",
+  "version": "1.0.0",
+  "description": "Gigaplug - Nigeria Data & OTP Platform",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.3",
+    "nodemailer": "^6.9.14"
+  }
+}
